@@ -1,1 +1,1 @@
-# This is the repor for ITSCM 180.
+# This is the repo for ITSCM 180.

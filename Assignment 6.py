@@ -66,3 +66,4 @@ for team, prediction in predictions.items():
 
 
 print("\nAccuracy on historical data (2009-2012): {:.2f}%".format(accuracy_percentage))
+print("Note: This is a simple heuristic model and not a sophisticated prediction algorithm.")
